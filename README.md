@@ -1,6 +1,6 @@
 # Local Games
 
-Join us as we do a local games project, we add games you can run locally on codespaces, 
+Join us as we do a local games project, we add games you can run locally on codespaces, no need for proxies.
 
 ## Run Cmd
 
