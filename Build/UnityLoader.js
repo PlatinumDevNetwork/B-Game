@@ -4558,7 +4558,8 @@ var UnityLoader = UnityLoader || {
                 if ("undefined" == typeof SharedArrayBuffer) return !1;
                 var e = new WebAssembly.Memory({ initial: 1, maximum: 1, shared: !0 }),
                     t = e.buffer instanceof SharedArrayBuffer;
-                return delete e, t;
+                e = null;
+                return t;
             })(),
         };
     })(),
