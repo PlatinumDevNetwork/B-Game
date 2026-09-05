@@ -4,7 +4,7 @@ Join us as we do a local games project, we add games you can run locally on code
 
 ## Run Cmd
 
-Type in the terminal (npx --yes http-server . -p 8080)
+Type in the terminal <b>(npx --yes http-server . -p 8080)</b>
 
 No you wont need any proxy. Game scripts are harder to sense than proxies.
 
