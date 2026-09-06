@@ -13,3 +13,7 @@ No you wont need any proxy. Game scripts are harder to sense than proxies.
 Scripts, Ads are not permitted on the repo.
 
 This repo will be played with nothing but game.
+
+## Current Game
+
+This is an older version of bitlife.
